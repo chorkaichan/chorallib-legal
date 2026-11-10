@@ -1,6 +1,6 @@
 # ChoralLib Privacy Policy
 
-Last Updated: March 4, 2025
+Last Updated: November 23, 2026
 
 ChoralLib (hereinafter referred to as "the Service") establishes the following privacy policy (hereinafter referred to as "this Policy") regarding the handling of users' personal information. Users of the Service (hereinafter referred to as "Users") agree to this Policy when using the Service.
 
@@ -60,6 +60,30 @@ The Service collects and uses personal information for the following purposes:
    - When personal data is transferred due to business succession
 3. Specific third-party service providers that receive personal data are listed in **Appendix**.
 
+## Article 5-2 (Personal Information in Ticket Sales)
+
+1. In connection with event ticket sales (Article 7-2 of the Terms of Service), the Service collects the following personal information. Anyone who purchases a ticket (hereinafter "Purchasers") must register as a User and agrees to this Article when purchasing.
+   - Purchasers' name, email address (that of the account used to purchase), language setting, details of tickets purchased, payment method, payment and refund status, and entry records
+   - The name, representative, address, telephone number, email address and country of Users who sell tickets (hereinafter "Organizers"), for the notice under the Act on Specified Commercial Transactions (or, for Organizers outside Japan, the seller information)
+   - The name, contact details and request details of anyone who requests disclosure of an Organizer's information
+2. The Service uses the information in the preceding paragraph for the following purposes:
+   - Selling tickets, issuing and sending e-tickets, checking entry, and processing refunds
+   - Sending messages about the event from Organizers to Purchasers (sent by the Service without showing the Purchaser's email address to the Organizer; replies go to the Organizer's contact address)
+   - Showing purchased tickets in the Purchaser's account, and following the Organizer's page if the Purchaser chose to at purchase
+   - Preparing and publishing notices under the Act on Specified Commercial Transactions, forwarding Purchaser inquiries to Organizers, and responding to disclosure requests under applicable laws
+   - Preventing fraudulent transactions and handling inquiries and disputes
+3. The Service provides a Purchaser's name to the Organizer of the event, to prepare the attendee list and check entry. Purchasers consent to this at the time of purchase. The Service does not provide the Purchaser's email address to the Organizer. Purchase details and entry records are shown to the Organizer to the extent needed to run the event.
+4. Organizers use the Purchaser information they receive at their own responsibility, solely to run the event and to contact Purchasers.
+5. When an individual Organizer (including a representative of a group without legal personality) displays the Service's address and telephone number in the notice under the Act on Specified Commercial Transactions, the Service uses the current address and telephone number registered by the Organizer to forward Purchaser inquiries and to contact the Organizer. The Service does not disclose them to Purchasers or other third parties except as required by law (including disclosure requests under the Act on the Protection of Consumers Who Use Digital Platforms for Transactions). When a disclosure request is made, the Service hears the Organizer's opinion before disclosure, as required by law.
+6. Accounts for Organizers to receive sales proceeds are created and verified by Stripe. The Service obtains part of the information Organizers provide to Stripe (such as name, address and telephone number) from Stripe, as initial values for the notice under the Act on Specified Commercial Transactions.
+7. Records of ticket transactions may be kept for as long as necessary, even after a User deletes their account, to handle refunds and disputes and to retain them for the period required by law.
+8. If the Organizer is located outside Japan, providing the name under paragraph 3 is a provision to a third party in a foreign country. The Organizer's country is shown on the purchase page and in the seller information. The systems for the protection of personal information in each Organizer country are as follows:
+   - EU member states and the United Kingdom: designated by the Personal Information Protection Commission of Japan as foreign countries with a system for the protection of personal information at a level equivalent to Japan's in protecting individual rights and interests.
+   - United States: there is no comprehensive federal privacy law; there are federal laws for specific sectors and state laws (such as the California Consumer Privacy Act).
+   - Australia: the Privacy Act 1988 and the Australian Privacy Principles under it.
+
+   For details of each country's system, see the survey results on foreign systems for the protection of personal information published by the Personal Information Protection Commission of Japan. Under Article 7-2 of the Terms of Service, Organizers must use the information they receive solely to run the event and to contact Purchasers, must not provide it to third parties, and must handle it in accordance with the laws of their country. However, the Service cannot confirm that Organizers take all measures equivalent to those required by Japan's Act on the Protection of Personal Information. Without consent to this provision, tickets from that Organizer cannot be purchased.
+
 ## Article 6 (Management of Personal Information)
 
 1. The Service takes reasonable and necessary security measures to prevent leaks, loss, or damage of personal information.
@@ -93,7 +117,9 @@ For inquiries regarding this Policy, please contact us via the following:
 | Third-Party Recipient | Data Shared | Method of Sharing |
 | --- | --- | --- |
 | Mixpanel | Browsing data | API provided by Mixpanel |
-| Stripe | Payment processing information | API provided by Stripe |
+| Stripe | Payment processing information; ticket Purchasers' name and email address | API provided by Stripe |
+| Ticket Organizers | Purchasers' name, purchase details, entry records | The Service's screens and exports |
+| Purchasers who request disclosure | An Organizer's name, address and telephone number (only as required by law, such as when a request meets the requirements of the Act on the Protection of Consumers Who Use Digital Platforms for Transactions) | Email or in writing |
 | Sentry | Error logs | API provided by Sentry |
 
 End of Document.

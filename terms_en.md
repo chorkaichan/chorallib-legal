@@ -1,6 +1,6 @@
 # ChoralLib Terms of Service
 
-Last Updated: March 4, 2025
+Last Updated: November 23, 2026
 
 These Terms of Service (hereinafter referred to as "these Terms") set forth the conditions for using the choral music database provided by ChoralLib (hereinafter referred to as "the Service"). Users (hereinafter referred to as "Users") agree to these Terms when using the Service.
 
@@ -43,6 +43,24 @@ These Terms of Service (hereinafter referred to as "these Terms") set forth the 
 
 1. Payments are processed via Stripe Japan, Inc. (hereinafter referred to as "Stripe"). Users must comply with the terms and conditions of Stripe when using its payment services.
 2. Payments are non-refundable. However, in cases of Service malfunctions or other special circumstances, exceptions may be made. Users will retain access to paid membership services until the subscription period ends.
+
+## Article 7-2 (Ticket Sales)
+
+1. Users who operate an official page on a paid plan (hereinafter referred to as "Organizers") may sell event tickets through the Service. Anyone who purchases a ticket (hereinafter referred to as "Purchasers") must register as a User and agrees to this Article when purchasing.
+2. The ticket sales contract is formed between the Organizer and the Purchaser. The Service provides a place to sell and a payment system, and is not a party to the sales contract. The Organizer is responsible for holding, the content of, changes to, and cancellation of the event, and for decisions on refunds arising from them.
+3. Organizers, whether for-profit or non-profit and whether groups or individuals, must accurately publish a notice under the Act on Specified Commercial Transactions (or, for Organizers outside Japan, seller information) in the prescribed manner. Individual Organizers in Japan (including representatives of groups without legal personality) may display their name together with the Service's address and telephone number in place of their own. In that case, the Organizer agrees that the Service's address and telephone number serve as the contact point for transactions with Purchasers, must accurately register their current address and a telephone number in their own name with the Service, and must remain reachable by the Service at all times. The Service forwards inquiries from Purchasers to the Organizer. If the Organizer cannot be reached, the Service may suspend ticket sales and withhold payment of sales proceeds. The Service does not disclose the registered address and telephone number to Purchasers except as required by law (including disclosure requests under the Act on the Protection of Consumers Who Use Digital Platforms for Transactions).
+4. Ticket payments are processed through Stripe Connect. To receive sales proceeds, Organizers must create a Stripe account and agree to Stripe's terms (including the Stripe Connected Account Agreement). Only persons located in the countries separately specified by the Service (Japan, the United States, the United Kingdom, Australia and EU member states) may become Organizers. The Organizer's country is chosen when the Stripe account is created and cannot be changed later.
+5. Tickets are sold in the currency of the Organizer's country, and sales proceeds, fees and refunds are handled in that currency. If a Purchaser pays in a currency other than the sales currency, the Purchaser bears the conversion fee set by Stripe. Tickets of Organizers outside Japan are processed by Stripe with the Organizer as the seller.
+6. The Service deducts, as a fee, from the Organizer's sales proceeds an amount equal to the ticket sales amount multiplied by a rate that the Service separately sets and displays (for some Organizer countries, plus a fixed amount per order). The rate and fixed amount differ by Organizer country and are shown on the management page. Fees received are not refunded, even when tickets are refunded or events are cancelled.
+7. PayPay and bank transfer are available only when purchasing tickets of Organizers in Japan from within Japan.
+8. Sales proceeds are paid into the Organizer's account through Stripe, in the currency of the Organizer's country, at times set by the Service.
+9. As a rule, cancellations and refunds at the Purchaser's convenience are not accepted. However, if the Organizer agrees, a refund may be made.
+10. When cancelling an event, the Organizer must promptly complete the cancellation procedure in the prescribed manner and refund the full ticket price to Purchasers. Costs arising from refunds are borne by the Organizer and deducted from sales proceeds. If sales proceeds are insufficient, the Service may charge the Organizer for the shortfall.
+11. Damages incurred by the Service as a result of the Organizer's ticket sales, including chargebacks (payment disputes by Purchasers), are borne by the Organizer.
+12. The Service provides the Purchaser's name to the Organizer. The Service does not provide the Purchaser's email address to the Organizer. Organizers contact Purchasers through the designated function of the Service, and replies go to the Organizer's contact address. If the Organizer is located outside Japan, providing the name is a provision to a third party in a foreign country (see Article 5-2 of the Privacy Policy). Organizers may use the information provided only to run the event and to contact Purchasers, must not use it for any other purpose or provide it to third parties, and must manage it appropriately in accordance with the personal information protection laws of their country.
+13. After cancelling a paid plan, Organizers may continue sales, entry checks, refunds and related operations only for events whose ticket sales had already started. They may not add new events or start new sales.
+14. The Service may not provide ticket purchases, ticket sales management or other ticket sales functions to access from countries other than those specified in paragraph 4. This does not apply to displaying e-tickets already purchased.
+15. The Service may, without prior notice, suspend ticket sales or withhold payment of sales proceeds if the Organizer violates these Terms, if a transaction is suspected to be fraudulent, or if the Service otherwise deems it necessary.
 
 ## Article 8 (Prohibited Actions)
 
